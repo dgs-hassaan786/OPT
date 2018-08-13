@@ -1,0 +1,8 @@
+What to do more?
+-	Webforms are  legacy, should be moved to latest framework like mvc for SPA or architectural development
+-	Service oriented architecture (SOA) should be introduced, which is really helpful in separating out the client applications. It will be helpful in sorting out the scaling factor either horizontal or vertical.
+-	I prefer to offload the load on Client-side (Fat Client, thin server concept)
+-	We can achieve security by implementing Oauth or OpenId
+-	SQL injection could be tackle via parameterized queries or stored procedures
+-	Architectural pattern introduction like using patterns (repository or cqrs) 
+
